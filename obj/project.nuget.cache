@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0Iufs8YgK3fUQY3OYuCJjfY9AVOmZDMnjCwZlb5ba93ccQe2F38kca7naQa9cfRDX2CFBW5B0txcHGLYfK2cw==",
+  "success": true,
+  "projectFilePath": "/home/sarvarbek/Desktop/hello-world/AudioPlayer/AudioPlayer.csproj",
+  "expectedPackageFiles": [
+    "/home/sarvarbek/.nuget/packages/system.windows.extensions/10.0.1/system.windows.extensions.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
